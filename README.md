@@ -1,10 +1,3 @@
-## Hi there I am Tedy Ouma👋
-
-<!--
-**Oumatedy/Oumatedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 👋 Hey there! I'm Tedy Ouma  
 
 👀 I've got a passion for all things **data science** and **software development**—two worlds that blend creativity and innovation.  
@@ -18,4 +11,3 @@ Here are some ideas to get you started:
 😄 **Pronouns:** He/Him  
 
 ⚡ **Fun fact:** When I'm not coding or exploring the latest tech trends, you'll find me **experimenting with new recipes** in the kitchen or **playing board games with friends**. Oh, and I won't mention football here—**that's oxygen for me!** 😅 
--->
